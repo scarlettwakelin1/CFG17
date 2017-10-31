@@ -1,0 +1,34 @@
+h1{
+	color:red;
+}
+
+p{
+	font-family:'Times';
+}
+
+h2{
+	font-size:80px;
+	background-color: purple;
+	color:brown;
+}
+
+.blue{ 
+	background-color:blue;
+	color:white;
+	font-size: 50px
+
+}
+
+h2#unique{
+	background-color:red;
+	color:blue;
+	font:'Arial';
+	font-size:60px;
+}
+
+.red{
+	display:block;
+	background-color: red;
+	width=200px;
+	border=30px solid #73AD21;
+} 
